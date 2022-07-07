@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/mine.css">
+
+
+
+
+
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
+<body>
+
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <div class="container">
+	
+          <a class="navbar-brand" href="#">Security Dogs and Dog trainers</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+	
+
+	
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="aboutus.html">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact</a>
+              </li>
+            </ul>
+          
+	
+	
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+</nav>
+
+
+
+
+<form class="h5">
+<input type="text" class="form-control" value="name"/> </br>
+<input type="text" class="form-control"value="type of dog"/>  </br>
+<input type="text" class="form-control" value="cash on delivery/cash with order"/>  </br>
+<input type="text" class="form-control" value="place of delivery"/>  </br>
+<input type="number" class="form-control" value="cash to be paid"/>  </br>
+<input type="submit" class="btn btn-dark" value="press to order"/>  
+</form>
+
+</body>
+</html>

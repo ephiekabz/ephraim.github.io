@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+<script type="text/javascript" src="engine0/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+<title>Page Title</title>
+
+<link rel="stylesheet" href="css/bootstrap.css">
+<link rel="stylesheet" href="css/mine.css">
+	
+<body>
+    
+	
+    <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <div class="container">
+          <a class="navbar-brand" href="#">Security Dogs and Dog trainers</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+	
+
+	
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ms-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="aboutus.html">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Services</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact</a>
+              </li>
+            </ul>
+          
+	
+	
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+</nav>
+
+    
+   
+
+
+
+
+<!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container1">
+  <div class="ws_images"><ul>
+      <li><img src="data1/images/fg.jpg" alt="fg" title="fg" id="wows1_0"/></li>
+      <li><img src="data1/images/fg1.jpg" alt="fg1" title="fg1" id="wows1_1"/></li>
+      <li><img src="data1/images/fg2.jpg" alt="fg2" title="fg2" id="wows1_2"/></li>
+      <li><a href="http://wowslider.net"><img src="data1/images/fg3.jpg" alt="javascript photo gallery" title="fg3" id="wows1_3"/></a></li>
+      <li><img src="data1/images/husky.jpg" alt="husky" title="husky" id="wows1_4"/></li>
+    </ul></div>
+    <div class="ws_bullets"><div>
+      <a href="#" title="fg"><span><img src="data1/tooltips/fg.jpg" alt="fg"/>1</span></a>
+      <a href="#" title="fg1"><span><img src="data1/tooltips/fg1.jpg" alt="fg1"/>2</span></a>
+      <a href="#" title="fg2"><span><img src="data1/tooltips/fg2.jpg" alt="fg2"/>3</span></a>
+      <a href="#" title="fg3"><span><img src="data1/tooltips/fg3.jpg" alt="fg3"/>4</span></a>
+      <a href="#" title="husky"><span><img src="data1/tooltips/husky.jpg" alt="husky"/>5</span></a>
+    </div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">css slider</a> by WOWSlider.com v9.0</div>
+  <div class="ws_shadow"></div>
+  </div>	
+  <script type="text/javascript" src="engine1/wowslider.js"></script>
+  <script type="text/javascript" src="engine1/script.js"></script>
+  <!-- End WOWSlider.com BODY section -->
+
+
+	</body>
+
+
+	
+</html>
